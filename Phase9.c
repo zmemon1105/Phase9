@@ -37,7 +37,7 @@ printf("4. 1 run of 7\n");
 printf("5. 1 run of 8\n");
 printf("6. 1 run of 9\n");
 printf("7. 2 sets of 4\n");
-printf("8. 1 set of 5 + 1 set of 2\n");
+printf("8. 1 set of 5 + 1 set of 3\n");
 printf("9. 1 set of 5 + 1 set of 3\n\n");
 }
 
